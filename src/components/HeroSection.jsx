@@ -22,7 +22,7 @@ function HeroSection() {
                         As an eager and quick learner, I am dedicated to pushing boundaries and contributing innovative solutions to any software project I undertake.
                     </p>
                     <a
-                        href="#"
+                        href="https://drive.google.com/file/d/1dbUFNIYnYLVOWotZQo08VwFbBGPDhmci/view?usp=sharing"
                         className="inline-block px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-indigo-600 hover.bg-indigo-700 md:text-md"
                     >
                         Resume

@@ -6,7 +6,7 @@ export default [
 		title: 'Vasavi Vidyanikethan  Ramanagara',
 		icon: <FaSchool className="w-full h-full" />,
 		description:
-			'B.E. in Information Science and Engineering [9.00 CGPA (82.5%)]',
+			'Class 10th, Karnataka State Secondary Education Board [99.68%]',
 	},
 	{
 		title: 'Deeksha Centre for Learning  Bengaluru',
