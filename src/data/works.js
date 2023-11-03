@@ -5,13 +5,13 @@ export default [
 	{
 		title: 'Hospital Management System',
 		imgUrl:hospital,
-		tech: ['React JS', 'Gatsby JS', 'Sanity.io'],
+		tech: ['HTML', 'CSS','JAVASCRIPT','MYSQL'],
 		workUrl: '#',
 	},
 	{
 		title: "Snow World",
 		imgUrl:snow,
-		tech: ['HTML', 'CSS', 'Animations'],
+		tech: ['HTML', 'CSS', 'ANIMATIONS'],
 		workUrl: '#',
 	},
 ];
